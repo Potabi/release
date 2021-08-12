@@ -3,9 +3,7 @@ Welcome to the Potabi release engineering website. Here you will find documentat
 
 ## About Release Engineering
 ### Staff
-| Name | Role | Email |
-| ---- | ---- | ----- |
-| [Kai Lyons](https://github.com/loralighte) | Lead Potabi Engineer, Current Head of Release Engineering | [`kai@potabi.com`](mailto:kai@potabi.com) |
+- Kai Lyons, [github/loralighte](https://github.com/loralighte), [kai@potabi.com](mailto:kai@potabi.com)
 
 ### Communication Platforms
 - [Discord](https://discord.com/invite/8s8nNwndtF)
