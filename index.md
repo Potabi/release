@@ -2,6 +2,7 @@
 Welcome to the Potabi release engineering website. Here you will find documentation for release, relese engineering, and more.
 
 ## Release Engineering News: 
+- AUGUST 13, 2021: [Potabi RE Base Update](/news/2021/august-13_01)
 - AUGUST 12, 2021: [Potabi RE Base Update](/news/2021/august-12_01)
 
 ## About Release Engineering
