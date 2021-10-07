@@ -2,6 +2,8 @@
 Welcome to the Potabi release engineering website. Here you will find documentation for release, relese engineering, and more.
 
 ## Release Engineering News: 
+- OCTOBER 06, 2021: [Potabi Systems Update Beta 1.0A](/news/2021/october-6_01)
+- AUGUST 18, 2021: [Potabi RE Base Update](/news/2021/august-18_01)
 - AUGUST 18, 2021: [Potabi RE Base Update](/news/2021/august-18_01)
 - AUGUST 14, 2021: [Potabi Development Pause for Rebase Question](/news/2021/august-14_01)
 - AUGUST 13, 2021: [URGENT: POTABI BUILD HALT TO BROKEN BASE](/news/2021/august-13_02)
